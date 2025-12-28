@@ -10,10 +10,11 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-	site: 'https://blog-template-gray.vercel.app/', // Write here your website url
-	author: 'Your Name', // Site author
-	title: 'Astro Theme OpenBlog', // Site title.
-	description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.', // Description to display in the meta tags
+	site: 'https://prozafotbalistica.plazio.org/', // Write here your website url
+	author: 'Christi Bordei', // Site author
+	title: 'Proză fotbalistică', // Site title.
+	description:
+		'Descoperă pasiunea fotbalului! Analize aprofundate, vești de ultimă oră, cronica meciurilor și comentarii despre sportul rege. Rămâi conectat cu istoria, strategia și emoția fotbalului.', // Description to display in the meta tags
 	lang: 'en-GB',
 	ogLocale: 'en_GB',
 	shareMessage: 'Share this post', // Message to share a post on social media
